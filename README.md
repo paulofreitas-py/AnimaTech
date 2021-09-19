@@ -8,7 +8,7 @@
 </h1>
 
 ### Repositorio dedicado a todos os projetos do programa da Gama Academy - Ânima Tech
-<img src="https://animaeducacao.com.br/app/uploads/2021/05/%C3%82nimaEduca%C3%A7%C3%A3o.png">
+<img src="https://paulofreitasdev.files.wordpress.com/2021/09/screenshot-2021-09-19-at-17-08-38-anima-tech-ecossistema-anima.png">
 
 ## 📚 Módulos
 
