@@ -31,10 +31,11 @@ O projeto Ânima Tech é uma parceria da Ânima Educação com a Gama Academy e 
   <img alt="css" src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&ogoColor=white"/>
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitas-py)](https://github.com/paulofreitas-py/BS-Ciencia-da-Computacao)
-  ## Contribuidor
+## Contribuidor
 
 <table>
-  <tr>
     <td align="center"><a href="https://github.com/paulofreitas-py"><img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/42820569?s=400&u=756d1c6a756b352a1095e7cb9289d3170f909765&v=4" width="100px;" alt=""/><br /><sub><b>Paulo Freitas</b></sub></a><br />
-    </tr>
+
+## Outros Treinamentos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulofreitas-py&repo=Hiring-Coders)](https://github.com/paulofreitas-py/Hiring-Coders)
