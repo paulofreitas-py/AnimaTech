@@ -11,7 +11,8 @@
 
 ### Repositorio dedicado a todos os projetos do programa da Gama Academy - Ânima Tech
 <img src="https://paulofreitasdev.files.wordpress.com/2021/09/screenshot-2021-09-19-at-17-08-38-anima-tech-ecossistema-anima.png">
-O projeto Ânima Tech é uma parceria da Ânima Educação com a Gama Academy e tem o objetivo de acelerar o seu desenvolvimento na função de Desenvolvedor(a) Fullstack, por meio de uma experiência educacional inovadora.
+
+O projeto [Ânima Tech](https://animatech.corporate.gama.academy/) é uma parceria da Ânima Educação com a Gama Academy e tem o objetivo de acelerar o seu desenvolvimento na função de Desenvolvedor(a) Fullstack, por meio de uma experiência educacional inovadora.
 
 ## 📚 Módulos
 
@@ -32,7 +33,7 @@ O projeto Ânima Tech é uma parceria da Ânima Educação com a Gama Academy e 
   
 
 ## Contribuidor
-
+ 
 <table>
     <td align="center"><a href="https://github.com/paulofreitas-py"><img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/42820569?s=400&u=756d1c6a756b352a1095e7cb9289d3170f909765&v=4" width="100px;" alt=""/><br /><sub><b>Paulo Freitas</b></sub></a><br />
 
