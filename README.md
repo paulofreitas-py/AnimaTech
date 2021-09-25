@@ -21,7 +21,7 @@ O projeto [Ânima Tech](https://animatech.corporate.gama.academy/) é uma parcer
 🔖 [Ânima Tech T2 - GIT]()<br>
 🔖 [Ânima Tech T2 - HTML]()<br>
 🔖 [Ânima Tech T2 - CSS]()<br>
-🔖 []()<br>
+🔖 [👨‍💻Curso JavaScript]()<br>
 
 ## 🛠 Tecnologias Usadas
 <br>
