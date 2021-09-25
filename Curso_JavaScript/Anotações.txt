@@ -1,0 +1,13 @@
+
+https://colorhunt.co/, https://materialui.co/, https://coolors.co/
+
+window.alert('A soma é: ' + soma + '!'+ '\n' + 'A subtração é: ' + sub + '\n' + 'A divisão é: ' + div + '\n' + 'A multiplicação é :' + mult)
+
+
+Microsoft Windows [versão 10.0.19042.631]
+(c) 2020 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\micro>node -v
+v14.17.6
+
+C:\Users\micro>
