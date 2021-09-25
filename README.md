@@ -30,7 +30,9 @@ O projeto [Ânima Tech](https://animatech.corporate.gama.academy/) é uma parcer
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="html" src="https://img.shields.io/badge/html5%20-%23F05650.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&ogoColor=white"/>
-  
+  <img alt="JS" src="https://img.shields.io/badge/javascript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray"/>
+  <img alt="ASPNET" src="https://img.shields.io/badge/asp.net%20-12358a?style=for-the-badge"/>
+  <img alt="VUEJS" src="https://img.shields.io/badge/vue.js%20-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
 ## Contribuidor
  
